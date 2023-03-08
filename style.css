@@ -1,0 +1,107 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    
+}
+.Titulo{
+    text-align: center;
+    color: #056fbc;
+
+}
+.titulo{
+    text-align: center;
+    color: black;
+    font-size: 38px;
+    font-family: 'Montserrat', sans-serif;
+}
+.imginicio{
+    width: 50%;
+    position: relative;
+}
+.imginicio2{
+    width: 40%;
+    right: 10px;
+    top: 300px;
+    position: absolute;
+}
+.Encabezado{
+    
+    position: relative;
+    margin: 0 auto;
+}
+
+.logo{
+    height: 180px;
+    border-bottom: 2px solid#F4B945;
+    
+}
+nav{
+    position: absolute;
+    top:250px;
+    right: 0;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform:inherit;
+    color: #056fbc;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #F4B945;
+    text-decoration: underline;
+}
+
+footer{
+    text-align: center;
+    background: url(img/bg.jpg);
+    padding: 30px;
+    
+}
+
+.copyright{
+    color:#FFFFFF;
+    font-size: 13px;
+    margin:20px;
+}
+
+.cssgrid{
+    width: 450px;
+    float:left;
+    margin: 0 20px 20px 0;
+}
+.titulo a {
+    text-decoration: none;
+}
+.titulo a:hover{
+    text-decoration: underline;
+    color: #F4B945;
+}
+.conceptos{
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+.info{
+    text-align: center;
+    color:#056fbc;
+    font-size: 24px;
+}
+
+.mockup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+.titulomockup{
+    text-align: center;
+    color: #056fbc;
+    font-size: 28px;
+    padding: 10px;
+}
