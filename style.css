@@ -70,7 +70,11 @@ footer{
     font-size: 13px;
     margin:20px;
 }
-
+.conocimientos{
+    color:#FFFFFF;
+    font-size: 13px;
+    margin:20px;
+}
 .cssgrid{
     width: 450px;
     float:left;
